@@ -1,2 +1,2 @@
-# library-management-system
-Project developed using Java.
+## Library Management System
+Designed and developed a scalable Library Management System using Java, focusing on clean architecture and Object-Oriented Programming principles. Implemented advanced functionalities including book inventory tracking, user management, and borrowing/return workflows. Improved system efficiency and usability by optimizing core operations and ensuring modular, maintainable code structure.
